@@ -1,0 +1,4 @@
+.iframe-wrapper { 
+	-webkit-overflow-scrolling: touch;
+	overflow: auto;
+};
